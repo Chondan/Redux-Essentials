@@ -55,8 +55,14 @@ nav a:hover {
   background: #926bcf;
 }
 
+.notification-btn {
+  width: 300px;
+  margin-top: 10px;
+}
+
 .navContent {
   display: flex;
+  flex-direction: column;
   justify-content: space-between;
 }
 
