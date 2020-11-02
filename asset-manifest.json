@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Redux-Essentials/static/css/main.3ba533a3.chunk.css",
+    "main.js": "/Redux-Essentials/static/js/main.3c38c5d0.chunk.js",
+    "main.js.map": "/Redux-Essentials/static/js/main.3c38c5d0.chunk.js.map",
+    "runtime-main.js": "/Redux-Essentials/static/js/runtime-main.a7478cae.js",
+    "runtime-main.js.map": "/Redux-Essentials/static/js/runtime-main.a7478cae.js.map",
+    "static/js/2.d20db7d4.chunk.js": "/Redux-Essentials/static/js/2.d20db7d4.chunk.js",
+    "static/js/2.d20db7d4.chunk.js.map": "/Redux-Essentials/static/js/2.d20db7d4.chunk.js.map",
+    "index.html": "/Redux-Essentials/index.html",
+    "precache-manifest.ffece18aedc011f33c398e89a6c9c60c.js": "/Redux-Essentials/precache-manifest.ffece18aedc011f33c398e89a6c9c60c.js",
+    "service-worker.js": "/Redux-Essentials/service-worker.js",
+    "static/css/main.3ba533a3.chunk.css.map": "/Redux-Essentials/static/css/main.3ba533a3.chunk.css.map",
+    "static/js/2.d20db7d4.chunk.js.LICENSE.txt": "/Redux-Essentials/static/js/2.d20db7d4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7478cae.js",
+    "static/js/2.d20db7d4.chunk.js",
+    "static/css/main.3ba533a3.chunk.css",
+    "static/js/main.3c38c5d0.chunk.js"
+  ]
+}
